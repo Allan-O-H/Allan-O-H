@@ -1,11 +1,11 @@
 ## Hi there, I'm Allan 👋
-Currently a Service Desk Analyst trying to move into Cloud engineering—focused roles that work on backend tooling and automation. I like turning real IT problems into small, reliable software.
+Currently a Service Desk Analyst trying to move into Cloud/Software engineering focused roles that work on backend tooling and automation. I like turning real IT problems into small, reliable software.
 
 - Currently: Service Desk Analyst at Standard Textile; building skills and projects towards Cloud.
 
-- Interests: Backend development, developer tooling, automation, cloud-native services.
+- Interests: Backend development, developer tooling, automation, cloud native services.
 
-- Stack: Python, Git/GitHub, Linux, VS Code; Azure (Functions, Entra ID), AWS (EC2, S3, IAM), Terraform.
+- Stack: Python, Git/GitHub, Linux, VS Code, Azure (Functions, Entra ID), AWS (EC2, S3, IAM), Terraform.
 
 - Skills: Active Directory & Microsoft 365 admin, DNS/DHCP/TCP/IP, endpoint support, scripting, troubleshooting.
 
@@ -18,7 +18,7 @@ Certifications:
 - CompTIA A+, Network+, Security+, Cloud+, Project+
 
 Currently Learning:
-- Python fundamentals for SWE (data structures, OOP, testing)
+- Python for SWE (data structures, OOP, testing)
 - CI/CD with GitHub Actions
 - Terraform
 - Linux
@@ -26,9 +26,9 @@ Currently Learning:
 - Infrastructure as Code concepts
 
 Projects:
-- HelloWorld (Python sandbox): practicing structure, packaging, and testing in small utilities.
 - Terraform With Azure: Using Terraform,to provisions an Azure Linux VM plus supporting resources,
   then bootstraps the VM with Docker and configures VS Code Remote SSH for a reusable cloud-based development environment.
+- Python scripting
 
 How to reach me:
 - Email: allan.oh98@gmail.com
